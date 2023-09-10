@@ -1,2 +1,2 @@
-# SistemaMercada.py
+# SistemaMercado.py
 Sistema para adicionar itens de um mercado em python
